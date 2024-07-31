@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit singh chouhan</h1>
-<h3 align="">I'm a passionate Data Scientist with a strong background in machine learning, deep learning, and data analytics. I specialize in leveraging Large language models. 🚀</h3>
+<h3 align="">I'm a passionate Data Scientist with a strong background in data analytics, machine learning, deep learning, natural language processing. I specialize in leveraging Large language models. 🚀</h3>
 
 
 - 🔭 I’m currently working on **multiple NLP- LLM Projects**
