@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **multiple NLP- LLM and tradtional model Projects**
 
-- 🌱 I’m currently learning **multiple technologies like OCP, containerization tools**
+- 🌱 I’m currently learning **multiple technologies**
 
 - 👯 I’m looking to collaborate on **LLMs**
 
