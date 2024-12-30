@@ -2,9 +2,9 @@
 <h3 align="">I'm a passionate Data Scientist with a strong background in data analytics, machine learning, deep learning, natural language processing and deployment. I specialize in leveraging Large language models. 🚀</h3>
 
 
-- 🔭 I’m currently working on **multiple NLP- LLM Projects**
+- 🔭 I’m currently working on **multiple NLP- LLM and tradtional model Projects**
 
-- 🌱 I’m currently learning **multiple technologies**
+- 🌱 I’m currently learning **multiple technologies like OCP, containerization tools**
 
 - 👯 I’m looking to collaborate on **LLMs**
 
